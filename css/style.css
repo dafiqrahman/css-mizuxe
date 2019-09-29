@@ -9710,6 +9710,10 @@ body {
   color: #cecece;
 }
 
+.fa-arrow-circle-down {
+  cursor: pointer;
+}
+
 @media (max-width: 768px) {
   #showcase {
     min-height: 500px;
