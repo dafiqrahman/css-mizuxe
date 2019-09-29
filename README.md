@@ -2,4 +2,6 @@
 
 A landing page showcasing some CSS and Bootstrap features. Follow-along project from a course. I only verify correctness after I'm done, and I think I do things better sometimes.
 
+Features: accordion, scrollspy, cool hover effects.
+
 View at https://elmaester.github.io/css-mizuxe
